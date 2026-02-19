@@ -14,8 +14,6 @@ A beautiful, feature-rich weather app built with SwiftUI for iOS.
 - **Beautiful UI** with glass morphism effects
 - **Animated backgrounds** based on weather conditions
 
-## 📱 Screenshots
-
 
 ## 🛠️ Technologies Used
 
