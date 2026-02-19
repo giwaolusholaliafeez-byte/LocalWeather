@@ -16,7 +16,6 @@ A beautiful, feature-rich weather app built with SwiftUI for iOS.
 
 ## 📱 Screenshots
 
-[Add screenshots here]
 
 ## 🛠️ Technologies Used
 
